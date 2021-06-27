@@ -2,6 +2,7 @@
 	"totalResults": "4",
 	"offers": [
 		{
+			"id": "1",
 			"rank": "1",
 			"provider": {
 				"id": "61053",
@@ -125,6 +126,7 @@
 			"requiresAvailabilityCheck": "true"
 		},
 		{
+			"id": "2",
 			"rank": "2",
 			"provider": {
 				"id": "61053",
@@ -247,6 +249,7 @@
 			}
 		},
 		{
+			"id": "3",
 			"rank": "3",
 			"provider": {
 				"id": "59296",
@@ -370,6 +373,7 @@
 			"requiresAvailabilityCheck": "true"
 		},
 		{
+			"id": "4",
 			"rank": "4",
 			"provider": {
 				"id": "61053",
