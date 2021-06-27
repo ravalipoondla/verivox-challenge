@@ -1,6 +1,6 @@
 {
-	"offers": [
-		{
+	"totalResults": "4",
+	"offers": [{
 			"id": "1",
 			"rank": "1",
 			"provider": {
@@ -451,6 +451,5 @@
 				}
 			},
 			"requiresAvailabilityCheck": "true"
-		}
-	]
+		}]
 }
